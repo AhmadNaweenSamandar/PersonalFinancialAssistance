@@ -1,6 +1,6 @@
 # AlgoFinance - Personal Financial Insights Powered by ML
 
-FinSight is an intelligent personal finance web application that helps users understand, manage, and improve their spending habits.  
+AlgoFinance is an intelligent personal finance web application that helps users understand, manage, and improve their spending habits.  
 By uploading or connecting banking exports, users receive automatic transaction categorization, smart insights, visual dashboards, and goal-based financial recommendations — all powered by machine learning.
 
 ---
@@ -34,7 +34,6 @@ By uploading or connecting banking exports, users receive automatic transaction 
 
 Full design prototype is available here:  
 👉 **Figma Design:** *[(https://www.figma.com/proto/gBa010CXrxC4YSh9HrAK6e/Untitled?node-id=0-1&t=ndE3HaO9BPTI8NLu-1)]*  
-*(Replace this placeholder with your actual link.)*
 
 The design includes:
 - Dashboard layouts  
@@ -69,9 +68,9 @@ The design includes:
 - Implement ML for automated financial insights  
 - Deliver a clean UI based on a polished Figma design  
 - Prepare for future upgrades such as:  
-  - Bank API integrations  
-  - Spending prediction models  
-  - Personalized financial coaching  
+- Bank API integrations  
+- Spending prediction models  
+- Personalized financial coaching  
 
 ---
 
