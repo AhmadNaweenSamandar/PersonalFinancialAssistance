@@ -1,4 +1,4 @@
-# Personal Financial Insights Powered by ML
+# AlgoFinance - Personal Financial Insights Powered by ML
 
 FinSight is an intelligent personal finance web application that helps users understand, manage, and improve their spending habits.  
 By uploading or connecting banking exports, users receive automatic transaction categorization, smart insights, visual dashboards, and goal-based financial recommendations — all powered by machine learning.
