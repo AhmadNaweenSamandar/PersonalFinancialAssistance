@@ -69,8 +69,7 @@ The design includes:
 - Deliver a clean UI based on a polished Figma design  
 - Prepare for future upgrades such as:  
 - Bank API integrations  
-- Spending prediction models  
-- Personalized financial coaching  
+- Spending prediction model
 
 ---
 
